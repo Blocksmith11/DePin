@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2048 2048">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        display: none;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1" class="cls-2">
+    <image class="cls-1" width="128" height="128" transform="scale(16)" xlink:href="logo-1.png"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2" class="cls-2">
+    <image width="591" height="209" transform="translate(85.3 714.7) scale(1.8 3.3)" xlink:href="logo-2.png"/>
+  </g>
+  <g id="Layer_3" data-name="Layer 3" class="cls-2">
+    <image width="104" height="24" transform="translate(106.7 771.4) scale(19.2)" xlink:href="logo-3.png"/>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <image width="24" height="24" transform="scale(85.3)" xlink:href="logo-4.png"/>
+  </g>
+</svg>
